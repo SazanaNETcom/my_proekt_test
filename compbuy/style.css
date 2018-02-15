@@ -1,0 +1,48 @@
+body {
+	background-color: #f8f8f8;
+}
+
+.menu li {
+	font-style: italic;
+	font-size: 22px;
+	list-style-type: none;
+}
+
+.menu li a {
+	color: #8B00FF;
+}
+
+.tovar {
+	color: darkblue;
+	font-size: 18px;
+	font-weight: 400;
+	background-color: #eaeaea
+}
+
+.tovar_kratok {
+	color: #707070;
+	font-size: 14px;
+	font-style: italic;
+	line-height: 16px;
+}
+
+.tovar_podrobno {
+	color: #484343;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24;
+	text-align: left;
+}
+
+.tovar_character {
+	color: aqua;
+	font-size: 15px;
+	font-weight: 300;
+	font-style: oblique;
+}
+
+.contact
+input[type="text"] {
+	font-size: 12px;
+	color: peachpuff;
+	}
